@@ -1,11 +1,4 @@
-/*- Write a program which accepts an array
-- Implement a logic to get the element occurred most of the time
-- Array [1,4,2,5,2,4,5,6,4,9,4]
-- o/p: 4
-- Time Complexity: O(N).
-- Space Complexity: O(1).
- */
-//package 09-assignment9;
+
 
 public class HighestFrequency {
     
